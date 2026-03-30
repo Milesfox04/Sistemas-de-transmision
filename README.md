@@ -178,6 +178,7 @@ Si tienes `git` instalado en tu terminal, puedes clonar el repositorio con el si
 git clone https://github.com/Milesfox04/Sistemas-de-transmision.git
 
 ```
+<a id="licencia"></a>
 ## 📄 Licencia
 ### Uso Interno y Académico - ACAPOMIL
 
