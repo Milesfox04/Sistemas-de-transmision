@@ -178,7 +178,8 @@ Si tienes `git` instalado en tu terminal, puedes clonar el repositorio con el si
 git clone https://github.com/Milesfox04/Sistemas-de-transmision.git
 
 ```
-## Uso Interno y Académico - ACAPOMIL
+## 📄 Licencia
+### Uso Interno y Académico - ACAPOMIL
 
 Copyright (c) 2026 Academia Politécnica Militar del Ejército de Chile
 
