@@ -176,3 +176,22 @@ Si tienes `git` instalado en tu terminal, puedes clonar el repositorio con el si
 
 ```bash
 git clone https://github.com/Milesfox04/Sistemas-de-transmision.git
+
+```
+## Uso Interno y Académico - ACAPOMIL
+
+Copyright (c) 2026 Academia Politécnica Militar del Ejército de Chile
+
+Todo el material contenido en este repositorio, incluyendo sílabo, evaluaciones,
+presentaciones, apuntes, imágenes, infografías y recursos de apoyo, es de propiedad
+de la Academia Politécnica Militar del Ejército de Chile.
+
+Se autoriza exclusivamente su uso con fines académicos y formativos para los alumnos
+del curso III CRIM y personal autorizado.
+
+Queda prohibida su reproducción total o parcial, distribución, modificación,
+comercialización o divulgación no autorizada, por cualquier medio, sin el
+consentimiento expreso y por escrito de la institución.
+
+Este repositorio no se publica bajo una licencia de software de código abierto.
+Todos los derechos quedan reservados.
