@@ -99,15 +99,42 @@ El programa de **76 horas** se divide exhaustivamente en las siguientes áreas d
 
 <a id="criterios-e-indicadores-de-evaluación"></a>
 
-## 🎯 Criterios e Indicadores de Evaluación
+## 🎯 Criterios e Indicadores de Evaluación (Competencias)
 
-El curso se estructura en cinco grandes criterios de evaluación para medir el desempeño técnico del alumno.[^4]
+El curso se estructura en **5 grandes criterios de evaluación**, orientados a asegurar el desempeño técnico y táctico del alumno.[^1]
 
-1. **Comprende sistemas de transmisión:** Explica RF y fibra óptica, e identifica redes inalámbricas.[^4]
-2. **Analiza los medios de transmisión no guiados:** Examina procesos de propagación, interpreta bandas (VHF/UHF/HF), analiza redes, calcula enlaces y pérdidas en sistemas terrestres y satelitales, y analiza sistemas radar.[^4]
-3. **Analiza los medios de transmisión guiados:** Aplica conceptos de fibra óptica, tipos de propagación (monomodo y multimodo), atenuación, dispersión y aplicaciones WDM/DWDM.[^4]
-4. **Aplica redes basadas en software:** Describe el desarrollo de SDN/SDMN, la virtualización de funciones de red, redes móviles y LTE.[^4]
-5. **Aplica la optimización de redes:** Representa topologías, determina grafos aleatorios y utiliza transmisión multicast y anycast en problemas de enrutamiento.[^4]
+### 1. Comprende sistemas de transmisión
+
+- **1.1:** Explica comunicaciones en RF y fibra óptica.[^1]
+- **1.2:** Identifica redes inalámbricas de transmisión de datos (LAN/MAN/WAN).[^1][^3]
+
+### 2. Analiza los medios de transmisión no guiados
+
+- **2.1:** Examina los procesos de propagación de ondas en la atmósfera.[^1][^3]
+- **2.2:** Interpreta las bandas de frecuencia (VHF/UHF/HF).[^1][^3]
+- **2.3:** Analiza el funcionamiento de redes VHF, UHF y HF (Broadcasting y Punto a Punto).[^1][^3]
+- **2.4:** Calcula enlaces y pérdidas teóricas para VHF/UHF.[^1][^3]
+- **2.5:** Calcula el enlace satelital (órbitas y propagación).[^1][^3]
+- **2.6:** Analiza sistemas de radar, su clasificación y ecuaciones de recepción.[^1][^3]
+
+### 3. Analiza los medios de transmisión guiados
+
+- **3.1 / 3.2:** Aplica conceptos y examina la estructura de la fibra óptica.[^1]
+- **3.3:** Interpreta los tipos de modos de propagación (Monomodo / Multimodo).[^1][^3]
+- **3.4:** Analiza las características, parámetros y límites (atenuación y dispersión).[^1]
+- **3.5 / 3.6:** Examina enlaces de telecomunicaciones, métodos de regeneración, protección y aplicaciones con WDM/DWDM.[^1][^3]
+
+### 4. Aplica redes basadas en software (SDN)
+
+- **4.1 / 4.2:** Describe el desarrollo de SDN, sus componentes y virtualización.[^1][^3]
+- **4.3 / 4.4:** Define componentes, funciones y aplicaciones de redes móviles integradas con SDN (OpenFlow/OpenStack).[^1][^3]
+- **4.5:** Define arquitecturas SDMN (Software Defined Mobile Networks) y redes LTE.[^1][^3]
+
+### 5. Aplica la optimización de redes
+
+- **5.1:** Grafica topologías de redes, nodos (vértices) y enlaces (arcos).[^1][^3]
+- **5.2:** Determina grafos aleatorios y evalúa el problema del camino más corto.[^1][^3]
+- **5.3:** Utiliza y aplica la transmisión "multicast" y "anycast".[^1][^3]
 
 ---
 
